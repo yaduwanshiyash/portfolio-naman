@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
     "engines": {
-    "node": "18"
+    "node": "20.0"
   },
   "dependencies": {
     "@material-ui/core": "4.12.3",
